@@ -1,4 +1,4 @@
-a:link, a:visited {
+.page-layout a:link, a:visited {
     background-color: white;
     border: 2px solid #ea5160;
     color: #ea5160;
@@ -9,13 +9,12 @@ a:link, a:visited {
     border-radius: 8px;
 }
 
-a:hover, a:active {
+.page-layout a:hover, a:active {
     cursor: pointer;
     border-color: red;
     transform: scale(.9);
 }
-a{
-    margin-bottom: 13rem;
-    margin-top: 1.2rem;
+.page-layout a{
+    margin-top: 3rem;
     max-width: 6rem;
 }
