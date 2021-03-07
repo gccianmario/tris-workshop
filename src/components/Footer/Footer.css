@@ -1,0 +1,15 @@
+footer{
+  background: #222221;
+  height: 6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  bottom: 0;
+  width:100%;
+}
+p{
+  color: white;
+}

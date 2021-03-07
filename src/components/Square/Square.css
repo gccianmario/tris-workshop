@@ -1,0 +1,12 @@
+.square{
+  background: #fdfafa;
+  border: 3px solid #00a09a;
+  font-family: Gilroy-Light;
+  font-size: 50px;
+  font-weight: 600;
+  color: #1f1f1f;
+  cursor: pointer;
+  outline: none;
+  width: 33%;
+  height: 33%;
+}

@@ -1,0 +1,14 @@
+img {
+    margin: 1rem;
+}
+h1{
+    font-weight: 400;
+    font-size: 50px;
+    color: #1f1f1f;
+    display: grid;
+    place-items: center;
+}
+h3{
+    font-weight: 400;
+    font-size: 25px;
+}

@@ -1,0 +1,21 @@
+a:link, a:visited {
+    background-color: white;
+    border: 2px solid #ea5160;
+    color: #ea5160;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+a:hover, a:active {
+    cursor: pointer;
+    border-color: red;
+    transform: scale(.9);
+}
+a{
+    margin-bottom: 13rem;
+    margin-top: 1.2rem;
+    max-width: 6rem;
+}

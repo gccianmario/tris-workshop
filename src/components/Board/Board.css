@@ -1,0 +1,10 @@
+.board{
+    border: 2px solid #1f1f1f;
+    width: 250px;
+    height: 250px;
+    margin: 5rem auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
